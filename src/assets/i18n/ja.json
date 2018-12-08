@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "heading1": " これは組織です"
+  },
+
+  "Contact": {
+    "headlabel": "i18N -  詳細はお問い合わせください!"
+  },
+
+  "About": {
+    "namelabel": "i18N - 私たちについて",
+    "fname": "ファーストネーム "
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "heading1": "Ceci est une organisation de recherche."
+  },
+
+  "Contact": {
+    "headlabel": "i18N - Veuillez nous contacter pour plus d'informations !"
+  },
+
+  "About": {
+    "namelabel": "i18N - À propos de nous page!",
+    "fname": "Prénom "
+  }
+}

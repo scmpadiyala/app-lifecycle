@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "heading1": "这是一个研究组织."
+  },
+
+  "Contact": {
+    "headlabel": "i18N - 与我们联系了解更多详情 !"
+  },
+
+  "About": {
+    "namelabel": "i18N - 关于我们页面!",
+    "fname": "名字 "
+  }
+}

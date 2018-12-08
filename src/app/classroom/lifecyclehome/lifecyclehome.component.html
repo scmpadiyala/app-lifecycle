@@ -1,0 +1,15 @@
+<div>
+  <a routerLink="lchome"> LC Home</a> ||
+  <a routerLink="lccontact"> LC Contact </a>
+  <hr />
+
+  <router-outlet></router-outlet>
+
+  <hr />
+
+  Total Amount : <input type="text" [(ngModel)]="totalAmount" /> <br /><br />
+
+  <app-lc-body [parentParam]="totalAmount"></app-lc-body>
+  <hr />
+  <ng-content></ng-content>
+</div>

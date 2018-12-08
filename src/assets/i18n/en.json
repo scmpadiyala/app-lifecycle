@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "heading1": "This is a reasearch org."
+  },
+
+  "Contact": {
+    "headlabel": "i18N - Contact us for more details !"
+  },
+
+  "About": {
+    "namelabel": "i18N - About us page!",
+    "fname": "First Name "
+  }
+}

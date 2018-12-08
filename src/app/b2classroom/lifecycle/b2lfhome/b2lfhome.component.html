@@ -1,0 +1,19 @@
+<div>
+  b2lfhome works! <br />
+  Total Amount : <input type="text" [(ngModel)]="totalAmount" />
+
+  <!--
+    <hr />
+    <a routerLink="/b2lfabout"> About </a> ||
+    <a routerLink="/b2lfcontact"> Contact </a>
+
+    <hr />
+    <router-outlet></router-outlet>
+  -->
+  <hr />
+  <ng-content></ng-content>
+  <hr />
+  <p>Post the content of the child element ....</p>
+
+  <app-b2lfcontact></app-b2lfcontact>
+</div>
